@@ -1,8 +1,6 @@
 Personal Fitness Tracker Using Python
 
-Overview
-
-The Personal Fitness Tracker is a Python-based application that helps users track their fitness progress by predicting calories burned during exercise. It processes user inputs such as age, BMI, heart rate, body temperature, and exercise duration to provide an accurate estimate. The project is implemented using Streamlit for the frontend and Google Colab/Jupyter Notebook for data processing.
+Overview The Personal Fitness Tracker is a Python-based application that helps users track their fitness progress by predicting calories burned during exercise. It processes user inputs such as age, BMI, heart rate, body temperature, and exercise duration to provide an accurate estimate. The project is implemented using Streamlit for the frontend and Google Colab/Jupyter Notebook for data processing.
 
 Features
 🏋️‍♂️ Calorie Prediction: Uses machine learning to estimate calories burned
@@ -16,14 +14,16 @@ Features
 Installation & Usage
 1. Clone the Repository
 git clone https://github.com/your-username/personal-fitness-tracker-using-python.git
+
 cd personal-fitness-tracker-using-python
-2. Install Dependencies
+
+3. Install Dependencies
 pip install streamlit pandas numpy scikit-learn matplotlib seaborn
-3. Run the Streamlit App
+4. Run the Streamlit App
 streamlit run app.py
 After running, open http://localhost:8501/ in your browser.
 
-4. Running in Google Colab
+5. Running in Google Colab
 Open fitness_tracker.ipynb in Google Colab
 
 Upload the exercise.csv and calories.csv files
