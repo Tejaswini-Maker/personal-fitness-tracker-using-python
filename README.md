@@ -15,20 +15,11 @@ Features
 
 Installation & Usage
 1. Clone the Repository
-bash
-Copy
-Edit
 git clone https://github.com/your-username/personal-fitness-tracker-using-python.git
 cd personal-fitness-tracker-using-python
 2. Install Dependencies
-bash
-Copy
-Edit
 pip install streamlit pandas numpy scikit-learn matplotlib seaborn
 3. Run the Streamlit App
-bash
-Copy
-Edit
 streamlit run app.py
 After running, open http://localhost:8501/ in your browser.
 
@@ -40,9 +31,6 @@ Upload the exercise.csv and calories.csv files
 Run all notebook cells to train the model
 
 Project Structure
-sql
-Copy
-Edit
 personal-fitness-tracker-using-python/
 │-- app.py                 # Streamlit web application
 │-- calories.py            # Calorie prediction script
