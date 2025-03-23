@@ -67,17 +67,3 @@ Future Enhancements
 
 License
 This project is licensed under the MIT License.
-
-
-
-
-
-
-
-
-
-
-
-
-
-ChatGPT can make mistakes. Check important info.
