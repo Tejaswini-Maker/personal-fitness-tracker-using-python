@@ -1,4 +1,4 @@
-Personal Fitness Tracker Using Python
+##Personal Fitness Tracker Using Python
 Overview
 The Personal Fitness Tracker is a Python-based application that helps users track their fitness progress by predicting calories burned during exercise. It processes user inputs such as age, BMI, heart rate, body temperature, and exercise duration to provide an accurate estimate. The project is implemented using Streamlit for the frontend and Google Colab/Jupyter Notebook for data processing.
 
